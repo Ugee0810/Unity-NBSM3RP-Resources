@@ -1,0 +1,12 @@
+{
+    "name": "com.ugee0810.resourcesofnbsm3rp",
+    "version": "0.1.1",
+    "displayName": "Unity NBSM3RP Resources",
+    "description": "This is NBSM3RP Resources of the Unity NBSM3RP project.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Ugee0810",
+        "email": "shu990810@naver.com"
+    },
+    "dependencies": {}
+}
